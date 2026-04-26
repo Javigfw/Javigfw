@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Javier 👋
 
-<!--
-**Javigfw/Javigfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Almería, focused on **cybersecurity, digital forensics and low-level systems**. Most of my knowledge has been built through self-learning alongside my degree.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Interest
+- 🔐 Cybersecurity & Digital Forensics
+- ⚙️ Low-level systems & hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### Languages
+`C` `C++` `Java` `Assembly` `JavaScript` `PHP` `ADA` `SQL` `HTML` `CSS` `R` `Prolog` `MATLAB` `Python`
+
+### Tools & Frameworks
+`Volatility` `Ghidra` `CHIPSEC` `ROS2` `OpenMP` `MPI` 
+`Pthreads` `RobotStudio` `Wireshark` `Cisco Packet Tracer`
+`Arduino IDE` `MySQL Workbench` `Access` `Postman` `GNAT`
+
+### Platforms & Hardware
+`Linux` `Windows` `Arduino` `Raspberry Pi`
+
+## 📂 What you'll find here
+Projects and code developed both during my university studies and on my own initiative, covering multiple technical areas. Updated continuously as I learn and take on new challenges.
+
+## 📫 Contact
+- 📧 javigf2005@gmail.com
+- 📄 [CV available on request]
