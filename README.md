@@ -6,7 +6,7 @@ Computer Engineering student at the University of Almería, focused on **cyberse
 - 🔐 Cybersecurity & Digital Forensics
 - ⚙️ Low-level systems & hardware
 
-## 🛠️ Tech Stack
+## 🛠️ Work With
 ### Languages
 `C` `C++` `Java` `Assembly` `JavaScript` `PHP` `ADA` `SQL` `HTML` `CSS` `R` `Prolog` `MATLAB` `Python`
 
