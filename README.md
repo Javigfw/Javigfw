@@ -23,4 +23,4 @@ Projects and code developed both during my university studies and on my own init
 
 ## 📫 Contact
 - 📧 javigf2005@gmail.com
-- 📄 [CV available on request]
+- 📄 CV: https://drive.google.com/file/d/1VXBzELGVQ-eR_7UWxYQT_qJjbqIXh3Ah/view?usp=sharing
