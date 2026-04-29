@@ -11,7 +11,7 @@ Computer Engineering student at the University of Almería, focused on **cyberse
 `C` `C++` `Java` `Assembly` `JavaScript` `PHP` `ADA` `SQL` `HTML` `CSS` `R` `Prolog` `MATLAB` `Python`
 
 ### Tools & Frameworks
-`Volatility` `Ghidra` `CHIPSEC` `ROS2` `OpenMP` `MPI` 
+`Volatility` `CHIPSEC` `ROS2` `OpenMP` `MPI` 
 `Pthreads` `RobotStudio` `Wireshark` `Cisco Packet Tracer`
 `Arduino IDE` `MySQL Workbench` `Access` `Postman` `GNAT`
 
@@ -23,4 +23,5 @@ Projects and code developed both during my university studies and on my own init
 
 ## 📫 Contact
 - 📧 javigf2005@gmail.com
-- 📄 CV: https://drive.google.com/file/d/1VXBzELGVQ-eR_7UWxYQT_qJjbqIXh3Ah/view?usp=sharing
+- 📧 jgf002@inlumine.ual.es (correo institutivo)
+- 📄 CV: https://drive.google.com/file/d/1sH5nLegOuY8C5Do3OCG7JQuMusRKFb_U/view?usp=sharing
