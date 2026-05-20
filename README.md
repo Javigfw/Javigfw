@@ -24,4 +24,4 @@ Projects and code developed both during my university studies and on my own init
 ## 📫 Contact
 - 📧 javigf2005@gmail.com
 - 📧 jgf002@inlumine.ual.es (correo institutivo)
-- 📄 CV: https://drive.google.com/file/d/1sH5nLegOuY8C5Do3OCG7JQuMusRKFb_U/view?usp=sharing
+- 📄 CV: https://drive.google.com/file/d/1t2i3Xd-slW89NIuOJ4XteVqTsBripfmN/view?usp=sharing
