@@ -12,8 +12,7 @@ Computer Engineering student at the University of Almería, focused on **cyberse
 
 ### Tools & Frameworks
 `Volatility` `CHIPSEC` `OpenMP` `MPI` 
-`Pthreads` `Wireshark` `Cisco Packet Tracer`
-`MySQL Workbench` `Access` `Postman` `GNAT`
+`Pthreads` `Wireshark` `Cisco Packet Tracer` 
 
 ### Operative systems
 `Linux` `Windows` 
