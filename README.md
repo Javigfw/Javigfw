@@ -8,20 +8,20 @@ Computer Engineering student at the University of Almería, focused on **cyberse
 
 ## 🛠️ Work With
 ### Languages
-`C` `C++` `Java` `Assembly` `JavaScript` `PHP` `ADA` `SQL` `HTML` `CSS` `R` `Prolog` `MATLAB` `Python`
+`C` `C++` `Java` `Assembly` `SQL` `Python`
 
 ### Tools & Frameworks
-`Volatility` `CHIPSEC` `ROS2` `OpenMP` `MPI` 
-`Pthreads` `RobotStudio` `Wireshark` `Cisco Packet Tracer`
-`Arduino IDE` `MySQL Workbench` `Access` `Postman` `GNAT`
+`Volatility` `CHIPSEC` `OpenMP` `MPI` 
+`Pthreads` `Wireshark` `Cisco Packet Tracer`
+`MySQL Workbench` `Access` `Postman` `GNAT`
 
-### Platforms & Hardware
-`Linux` `Windows` `Arduino` `Raspberry Pi`
+### Operative systems
+`Linux` `Windows` 
 
 ## 📂 What you'll find here
 Projects and code developed both during my university studies and on my own initiative, covering multiple technical areas. Updated continuously as I learn and take on new challenges.
 
 ## 📫 Contact
 - 📧 javigf2005@gmail.com
-- 📧 jgf002@inlumine.ual.es (correo institutivo)
+- 📧 jgf002@inlumine.ual.es (student email)
 - 📄 CV: https://drive.google.com/file/d/1t2i3Xd-slW89NIuOJ4XteVqTsBripfmN/view?usp=sharing
